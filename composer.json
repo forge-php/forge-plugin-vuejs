@@ -1,5 +1,5 @@
 {
-    "name": "forge/plugin-vuejs",
+    "name": "forge-php/plugin-vuejs",
     "description": "Vue.js plugin for Forge CLI",
     "autoload": {
         "psr-4": {
